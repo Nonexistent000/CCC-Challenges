@@ -21,15 +21,14 @@ for i in range(n):
     att_values.update({c:a})
 
 cities.sort()
-sorted(att_values.items(), key=lambda x: x[1])
+#sorted(att_values.items(), key=lambda x: x[1])
 
 for i in range(len(cities)):
-    
+    print(None)
 
 
-"""
+
 print(n)
 print(f)
 print(cities)
 print(att_values)
-"""
